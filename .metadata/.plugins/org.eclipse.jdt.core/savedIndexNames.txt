@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+T:\Trung Ngoc\KTPM_Tuan01\.metadata\.plugins\org.eclipse.jdt.core
+1261994984.index
+4181234329.index
+723048088.index
+1145902180.index
